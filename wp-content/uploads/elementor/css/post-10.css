@@ -1,0 +1,2221 @@
+.elementor-10 .elementor-element.elementor-element-d177f39 {
+    --min-height: 457px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-d177f39.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-4c72122 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-4c72122,
+.elementor-10 .elementor-element.elementor-element-4c72122::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-container {
+    height: 80px;
+    background-color: #29CFF5EB;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a {
+    font-family: "STEINWARD", Sans-serif;
+    background-color: #D9F3FF00;
+    color: #000000;
+    padding: 0px 15px 0px 15px;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:hover {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:focus {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:active {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li:hover>a {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li:hover>a .elementskit-submenu-indicator {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:hover .elementskit-submenu-indicator {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:focus .elementskit-submenu-indicator {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:active .elementskit-submenu-indicator {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li.current-menu-item>a {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li.current-menu-ancestor>a {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li.current-menu-ancestor>a .elementskit-submenu-indicator {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a .elementskit-submenu-indicator {
+    color: #101010;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav .elementskit-submenu-panel>li>a {
+    padding: 15px 15px 15px 15px;
+    color: #000000;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav .elementskit-submenu-panel>li>a:hover {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav .elementskit-submenu-panel>li>a:focus {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav .elementskit-submenu-panel>li>a:active {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav .elementskit-submenu-panel>li:hover>a {
+    color: #707070;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav .elementskit-submenu-panel>li.current-menu-item>a {
+    color: #707070 !important;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-submenu-panel {
+    padding: 15px 0px 15px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav .elementskit-submenu-panel {
+    border-radius: 0px 0px 0px 0px;
+    min-width: 220px;
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-hamburger {
+    float: right;
+    background-color: var( --e-global-color-a98739e);
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-hamburger .elementskit-menu-hamburger-icon {
+    background-color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-hamburger>.ekit-menu-icon {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-hamburger:hover .elementskit-menu-hamburger-icon {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-hamburger:hover>.ekit-menu-icon {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-close {
+    background-color: var( --e-global-color-a98739e);
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-close:hover {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.elementor-10 .elementor-element.elementor-element-3a7b4eb.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-266a5f9 {
+    --spacer-size: 277px;
+}
+
+.elementor-10 .elementor-element.elementor-element-266a5f9.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-e3855cc:not(.premium-logo-column) .premium-site-logo-wrapper {
+    justify-content: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-e3855cc.premium-logo-column .premium-site-logo-wrapper {
+    align-items: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-e3855cc {
+    width: var( --container-widget-width, 7.424%);
+    max-width: 7.424%;
+    --container-widget-width: 7.424%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-e3855cc.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-856f59e {
+    --grid-template-columns: repeat(0, auto);
+    --grid-column-gap: 5px;
+    --grid-row-gap: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-856f59e .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-856f59e .elementor-social-icon {
+    background-color: #D9F3FF;
+}
+
+.elementor-10 .elementor-element.elementor-element-856f59e .elementor-social-icon i {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-856f59e .elementor-social-icon svg {
+    fill: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-856f59e.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-b758905 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-b758905,
+.elementor-10 .elementor-element.elementor-element-b758905::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-34f5dc4:not(.premium-logo-column) .premium-site-logo-wrapper {
+    justify-content: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-34f5dc4.premium-logo-column .premium-site-logo-wrapper {
+    align-items: flex-start;
+}
+
+.elementor-10 .elementor-element.elementor-element-34f5dc4 {
+    width: var( --container-widget-width, 7.424%);
+    max-width: 7.424%;
+    --container-widget-width: 7.424%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-34f5dc4.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-86b4b60 {
+    --spacer-size: 277px;
+}
+
+.elementor-10 .elementor-element.elementor-element-f793d48 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: flex-end;
+    --align-items: center;
+    --gap: 7px;
+    --flex-wrap: nowrap;
+    --background-transition: 0.3s;
+    --margin-top: 0px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: -21px;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-f793d48.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-d663b74 .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button {
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button.premium-button-style2-shutinhor:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button.premium-button-style2-shutinver:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style5-radialin:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style5-rectin:before {
+    background-color: #D9F3FF;
+}
+
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button:hover .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-none:hover,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style1:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style2-shutouthor:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style2-shutoutver:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style2-shutinhor,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style2-shutinver,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style2-dshutinhor:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style2-dshutinver:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style2-scshutouthor:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style2-scshutoutver:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style3-after:hover,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style3-before:hover,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style4-icon-wrapper,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style5-radialin,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style5-radialout:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style5-rectin,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style5-rectout:before,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style6-bg,
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button-style6:before {
+    background-color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-d663b74 .premium-button:hover {
+    border-radius: 10px;
+    box-shadow: 0px 7px 0px 0px rgba(0, 0, 0, 0.96);
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-d663b74 {
+    width: var( --container-widget-width, 10.871%);
+    max-width: 10.871%;
+    --container-widget-width: 10.871%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-d663b74.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-96a98d6 .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button {
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button.premium-button-style2-shutinhor:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button.premium-button-style2-shutinver:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style5-radialin:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style5-rectin:before {
+    background-color: #D9F3FF;
+}
+
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button:hover .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-none:hover,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style1:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style2-shutouthor:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style2-shutoutver:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style2-shutinhor,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style2-shutinver,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style2-dshutinhor:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style2-dshutinver:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style2-scshutouthor:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style2-scshutoutver:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style3-after:hover,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style3-before:hover,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style4-icon-wrapper,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style5-radialin,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style5-radialout:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style5-rectin,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style5-rectout:before,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style6-bg,
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button-style6:before {
+    background-color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-96a98d6 .premium-button:hover {
+    border-radius: 10px;
+    box-shadow: 0px 7px 0px 0px rgba(0, 0, 0, 0.96);
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-96a98d6 {
+    width: var( --container-widget-width, 11.983%);
+    max-width: 11.983%;
+    --container-widget-width: 11.983%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-96a98d6.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-367520e .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button {
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button.premium-button-style2-shutinhor:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button.premium-button-style2-shutinver:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style5-radialin:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style5-rectin:before {
+    background-color: #D9F3FF;
+}
+
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button:hover .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-none:hover,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style1:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style2-shutouthor:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style2-shutoutver:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style2-shutinhor,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style2-shutinver,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style2-dshutinhor:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style2-dshutinver:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style2-scshutouthor:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style2-scshutoutver:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style3-after:hover,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style3-before:hover,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style4-icon-wrapper,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style5-radialin,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style5-radialout:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style5-rectin,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style5-rectout:before,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style6-bg,
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button-style6:before {
+    background-color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-367520e .premium-button:hover {
+    border-radius: 10px;
+    box-shadow: 0px 7px 0px 0px rgba(0, 0, 0, 0.96);
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-367520e {
+    width: var( --container-widget-width, 8.064%);
+    max-width: 8.064%;
+    --container-widget-width: 8.064%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-367520e.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-2e34e51 .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button {
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button.premium-button-style2-shutinhor:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button.premium-button-style2-shutinver:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style5-radialin:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style5-rectin:before {
+    background-color: #D9F3FF;
+}
+
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button:hover .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-none:hover,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style1:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style2-shutouthor:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style2-shutoutver:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style2-shutinhor,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style2-shutinver,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style2-dshutinhor:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style2-dshutinver:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style2-scshutouthor:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style2-scshutoutver:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style3-after:hover,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style3-before:hover,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style4-icon-wrapper,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style5-radialin,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style5-radialout:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style5-rectin,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style5-rectout:before,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style6-bg,
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button-style6:before {
+    background-color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-2e34e51 .premium-button:hover {
+    border-radius: 10px;
+    box-shadow: 0px 7px 0px 0px rgba(0, 0, 0, 0.96);
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-2e34e51 {
+    width: var( --container-widget-width, 10.149%);
+    max-width: 10.149%;
+    --container-widget-width: 10.149%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-2e34e51.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-e48381f .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button {
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button.premium-button-style2-shutinhor:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button.premium-button-style2-shutinver:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style5-radialin:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style5-rectin:before {
+    background-color: #D9F3FF;
+}
+
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button:hover .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-none:hover,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style1:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style2-shutouthor:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style2-shutoutver:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style2-shutinhor,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style2-shutinver,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style2-dshutinhor:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style2-dshutinver:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style2-scshutouthor:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style2-scshutoutver:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style3-after:hover,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style3-before:hover,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style4-icon-wrapper,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style5-radialin,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style5-radialout:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style5-rectin,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style5-rectout:before,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style6-bg,
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button-style6:before {
+    background-color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-e48381f .premium-button:hover {
+    border-radius: 10px;
+    box-shadow: 0px 7px 0px 0px rgba(0, 0, 0, 0.96);
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-e48381f {
+    width: var( --container-widget-width, 11.893%);
+    max-width: 11.893%;
+    --container-widget-width: 11.893%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-e48381f.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-a71bc0d .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button {
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button.premium-button-style2-shutinhor:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button.premium-button-style2-shutinver:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style5-radialin:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style5-rectin:before {
+    background-color: #D9F3FF;
+}
+
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button:hover .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-none:hover,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style1:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style2-shutouthor:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style2-shutoutver:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style2-shutinhor,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style2-shutinver,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style2-dshutinhor:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style2-dshutinver:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style2-scshutouthor:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style2-scshutoutver:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style3-after:hover,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style3-before:hover,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style4-icon-wrapper,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style5-radialin,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style5-radialout:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style5-rectin,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style5-rectout:before,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style6-bg,
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button-style6:before {
+    background-color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-a71bc0d .premium-button:hover {
+    border-radius: 10px;
+    box-shadow: 0px 7px 0px 0px rgba(0, 0, 0, 0.96);
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-a71bc0d {
+    width: var( --container-widget-width, 13.404%);
+    max-width: 13.404%;
+    --container-widget-width: 13.404%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-a71bc0d.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-text-icon-wrapper i {
+    font-size: 15px;
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-text-icon-wrapper svg {
+    width: 15px !important;
+    height: 15px !important;
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-text-icon-wrapper i,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-text-icon-wrapper svg {
+    margin-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button {
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-drawable-icon *,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-text-icon-wrapper svg:not([class*="premium-"]) {
+    fill: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button.premium-button-style2-shutinhor:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button.premium-button-style2-shutinver:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style5-radialin:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style5-rectin:before {
+    background-color: #D9F3FF;
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button:hover .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button:hover .premium-button-text-icon-wrapper i {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button:hover .premium-drawable-icon *,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button:hover svg:not([class*="premium-"]) {
+    fill: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-none:hover,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style1:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style2-shutouthor:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style2-shutoutver:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style2-shutinhor,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style2-shutinver,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style2-dshutinhor:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style2-dshutinver:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style2-scshutouthor:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style2-scshutoutver:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style3-after:hover,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style3-before:hover,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style4-icon-wrapper,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style5-radialin,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style5-radialout:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style5-rectin,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style5-rectout:before,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style6-bg,
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button-style6:before {
+    background-color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 .premium-button:hover {
+    border-radius: 10px;
+    box-shadow: 0px 7px 0px 0px rgba(0, 0, 0, 0.96);
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206 {
+    width: var( --container-widget-width, 2.682%);
+    max-width: 2.682%;
+    --container-widget-width: 2.682%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-773f206.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-text-icon-wrapper i {
+    font-size: 15px;
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-text-icon-wrapper svg {
+    width: 15px !important;
+    height: 15px !important;
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-text-icon-wrapper i,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-text-icon-wrapper svg {
+    margin-right: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .elementor-widget-container {
+    text-align: center;
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button {
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-drawable-icon *,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-text-icon-wrapper svg:not([class*="premium-"]) {
+    fill: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button.premium-button-style2-shutinhor:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button.premium-button-style2-shutinver:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style5-radialin:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style5-rectin:before {
+    background-color: #D9F3FF;
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button:hover .premium-button-text-icon-wrapper span {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button:hover .premium-button-text-icon-wrapper i {
+    color: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button:hover .premium-drawable-icon *,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button:hover svg:not([class*="premium-"]) {
+    fill: var( --e-global-color-3f0d39e);
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-none:hover,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style1:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style2-shutouthor:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style2-shutoutver:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style2-shutinhor,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style2-shutinver,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style2-dshutinhor:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style2-dshutinver:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style2-scshutouthor:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style2-scshutoutver:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style3-after:hover,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style3-before:hover,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style4-icon-wrapper,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style5-radialin,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style5-radialout:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style5-rectin,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style5-rectout:before,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style6-bg,
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button-style6:before {
+    background-color: #FFFFFF;
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 .premium-button:hover {
+    border-radius: 10px;
+    box-shadow: 0px 7px 0px 0px rgba(0, 0, 0, 0.96);
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822 {
+    width: var( --container-widget-width, 11.056%);
+    max-width: 11.056%;
+    --container-widget-width: 11.056%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-c208822.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-7bc1d68 {
+    --display: flex;
+    --justify-content: flex-start;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-7bc1d68.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-a7b89d7 {
+    --spacer-size: 1px;
+}
+
+.elementor-10 .elementor-element.elementor-element-3b2623f {
+    width: var( --container-widget-width, 77.993%);
+    max-width: 77.993%;
+    --container-widget-width: 77.993%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-3b2623f.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-91764af {
+    width: var( --container-widget-width, 21.957%);
+    max-width: 21.957%;
+    --container-widget-width: 21.957%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-91764af.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-642377c {
+    width: var( --container-widget-width, 21.957%);
+    max-width: 21.957%;
+    --container-widget-width: 21.957%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-642377c.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-82148d3 {
+    --min-height: 100vh;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: flex-start;
+    --align-items: center;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-82148d3.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-6497454 {
+    --spacer-size: 133px;
+}
+
+.elementor-10 .elementor-element.elementor-element-1cc8478 {
+    width: var( --container-widget-width, 41.149%);
+    max-width: 41.149%;
+    --container-widget-width: 41.149%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-1cc8478.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-5daf6f7 {
+    width: var( --container-widget-width, 26.048%);
+    max-width: 26.048%;
+    --container-widget-width: 26.048%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-5daf6f7.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-659a66a {
+    --spacer-size: 50px;
+}
+
+.elementor-10 .elementor-element.elementor-element-3c59ffe {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-3c59ffe.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-b77fb3e {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-b77fb3e.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-7fdd801 {
+    --spacer-size: 10px;
+}
+
+.elementor-10 .elementor-element.elementor-element-4215baa {
+    --display: flex;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-4215baa.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-a3cdb8e {
+    --min-height: 100vh;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: flex-start;
+    --align-items: center;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-a3cdb8e.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-7567b3e {
+    --spacer-size: 242px;
+}
+
+.elementor-10 .elementor-element.elementor-element-b80f461 {
+    --spacer-size: 50px;
+}
+
+.elementor-10 .elementor-element.elementor-element-daa3ebf {
+    width: var( --container-widget-width, 34.948%);
+    max-width: 34.948%;
+    --container-widget-width: 34.948%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-daa3ebf.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-4a7a67a {
+    width: var( --container-widget-width, 51.855%);
+    max-width: 51.855%;
+    --container-widget-width: 51.855%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-4a7a67a.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-b332763 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-a938e79 {
+    --display: flex;
+    --justify-content: flex-end;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-a938e79.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-e44eca8>.elementor-widget-container {
+    margin: 0px 0px -67px -243px;
+}
+
+.elementor-10 .elementor-element.elementor-element-e215bf7 {
+    --min-height: 86px;
+    --display: flex;
+    --justify-content: center;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-e215bf7,
+.elementor-10 .elementor-element.elementor-element-e215bf7::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-e215bf7.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-ca33c4f {
+    --min-height: 379px;
+    --display: flex;
+    --align-items: center;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-ca33c4f:not(.elementor-motion-effects-element-type-background),
+.elementor-10 .elementor-element.elementor-element-ca33c4f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://nibbler.club/wp-content/uploads/2023/05/tokenomics-bos.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.elementor-10 .elementor-element.elementor-element-ca33c4f,
+.elementor-10 .elementor-element.elementor-element-ca33c4f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-ca33c4f.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-f03102a {
+    --spacer-size: 1px;
+}
+
+.elementor-10 .elementor-element.elementor-element-fa4d34b .elementor-heading-title {
+    color: #2D2D2D;
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.elementor-10 .elementor-element.elementor-element-30e4efc {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --margin-top: -23px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-30e4efc.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-b8df877 {
+    width: var( --container-widget-width, 13.062%);
+    max-width: 13.062%;
+    --container-widget-width: 13.062%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-b8df877.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-8f19ac2 .skillbar-group .number-percentage-wraper {
+    display: none;
+}
+
+.elementor-10 .elementor-element.elementor-element-8f19ac2 .skillbar-group .skill-bar {
+    background-color: #022C02;
+    margin-bottom: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-8f19ac2 .skillbar-group .skill-track {
+    background-color: #FE9B26;
+}
+
+.elementor-10 .elementor-element.elementor-element-8f19ac2 .skillbar-group .skill-title {
+    color: #FFFFFF;
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 21px;
+}
+
+.elementor-10 .elementor-element.elementor-element-8f19ac2 {
+    width: var( --container-widget-width, 84.119%);
+    max-width: 84.119%;
+    --container-widget-width: 84.119%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-8f19ac2.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-2f2420c {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --margin-top: -37px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-2f2420c.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-89f7c5b {
+    width: var( --container-widget-width, 13.062%);
+    max-width: 13.062%;
+    --container-widget-width: 13.062%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-89f7c5b.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-0855915 .skillbar-group .number-percentage-wraper {
+    display: none;
+}
+
+.elementor-10 .elementor-element.elementor-element-0855915 .skillbar-group .skill-bar {
+    background-color: #022C02;
+    margin-bottom: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-0855915 .skillbar-group .skill-track {
+    background-color: #9CFF00;
+}
+
+.elementor-10 .elementor-element.elementor-element-0855915 .skillbar-group .skill-title {
+    color: #FFFFFF;
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 21px;
+}
+
+.elementor-10 .elementor-element.elementor-element-0855915 {
+    width: var( --container-widget-width, 84.119%);
+    max-width: 84.119%;
+    --container-widget-width: 84.119%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-0855915.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-ab485ef {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --margin-top: -37px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-ab485ef.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-6e82dc3 {
+    width: var( --container-widget-width, 13.062%);
+    max-width: 13.062%;
+    --container-widget-width: 13.062%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-6e82dc3.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-0f062b9 .skillbar-group .number-percentage-wraper {
+    display: none;
+}
+
+.elementor-10 .elementor-element.elementor-element-0f062b9 .skillbar-group .skill-bar {
+    background-color: #022C02;
+    margin-bottom: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-0f062b9 .skillbar-group .skill-track {
+    background-color: #EA306C;
+}
+
+.elementor-10 .elementor-element.elementor-element-0f062b9 .skillbar-group .skill-title {
+    color: #FFFFFF;
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 21px;
+}
+
+.elementor-10 .elementor-element.elementor-element-0f062b9 {
+    width: var( --container-widget-width, 84.119%);
+    max-width: 84.119%;
+    --container-widget-width: 84.119%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-0f062b9.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-b772841 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --margin-top: -37px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-b772841.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-6abd6ed {
+    width: var( --container-widget-width, 13.062%);
+    max-width: 13.062%;
+    --container-widget-width: 13.062%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-6abd6ed.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-53637d1 .skillbar-group .number-percentage-wraper {
+    display: none;
+}
+
+.elementor-10 .elementor-element.elementor-element-53637d1 .skillbar-group .skill-bar {
+    background-color: #022C02;
+    margin-bottom: 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-53637d1 .skillbar-group .skill-track {
+    background-color: #FFFC00;
+}
+
+.elementor-10 .elementor-element.elementor-element-53637d1 .skillbar-group .skill-title {
+    color: #FFFFFF;
+    font-family: "STEINWARD", Sans-serif;
+    font-size: 21px;
+}
+
+.elementor-10 .elementor-element.elementor-element-53637d1 {
+    width: var( --container-widget-width, 84.119%);
+    max-width: 84.119%;
+    --container-widget-width: 84.119%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-53637d1.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-efd3222 {
+    --display: flex;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-2abad04 {
+    width: var( --container-widget-width, 91.76%);
+    max-width: 91.76%;
+    --container-widget-width: 91.76%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-2abad04.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-97dff2e {
+    --min-height: 100vh;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --align-items: center;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-1511f8a {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-3b0617b.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-41eb92f {
+    width: var( --container-widget-width, 91.76%);
+    max-width: 91.76%;
+    --container-widget-width: 91.76%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-41eb92f.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-987b710 {
+    --spacer-size: 342px;
+}
+
+.elementor-10 .elementor-element.elementor-element-00412aa {
+    width: var( --container-widget-width, 25.54%);
+    max-width: 25.54%;
+    --container-widget-width: 25.54%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-00412aa.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-9785b1b {
+    width: var( --container-widget-width, 47.043%);
+    max-width: 47.043%;
+    --container-widget-width: 47.043%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-9785b1b.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-297ac33 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-297ac33.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-20d466d {
+    --display: flex;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.5;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-20d466d::before,
+.elementor-10 .elementor-element.elementor-element-20d466d>.elementor-background-video-container::before,
+.elementor-10 .elementor-element.elementor-element-20d466d>.e-con-inner>.elementor-background-video-container::before,
+.elementor-10 .elementor-element.elementor-element-20d466d>.elementor-background-slideshow::before,
+.elementor-10 .elementor-element.elementor-element-20d466d>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-10 .elementor-element.elementor-element-20d466d>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+}
+
+.elementor-10 .elementor-element.elementor-element-059d26d {
+    --display: flex;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-d01c28e {
+    --display: flex;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-d01c28e.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-bcab6db {
+    width: var( --container-widget-width, 55.895%);
+    max-width: 55.895%;
+    --container-widget-width: 55.895%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-bcab6db.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-3972b2a {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: flex-end;
+    --align-items: flex-start;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-3972b2a.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-52994d9 {
+    --spacer-size: 122px;
+}
+
+.elementor-10 .elementor-element.elementor-element-ad3b06d {
+    text-align: right;
+    width: var( --container-widget-width, 59.039%);
+    max-width: 59.039%;
+    --container-widget-width: 59.039%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-ad3b06d>.elementor-widget-container {
+    margin: -182px 0px 0px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-ad3b06d.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-fc3920f {
+    --display: flex;
+    --background-transition: 0.3s;
+    --margin-top: -19px;
+    --margin-right: 0px;
+    --margin-bottom: 0px;
+    --margin-left: 0px;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-fc3920f.e-con {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-de74661 {
+    width: var( --container-widget-width, 59.039%);
+    max-width: 59.039%;
+    --container-widget-width: 59.039%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-de74661.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-ec96ba3 {
+    --spacer-size: 50px;
+}
+
+.elementor-10 .elementor-element.elementor-element-e428720 {
+    --min-height: 1440px;
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: flex-start;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-e428720,
+.elementor-10 .elementor-element.elementor-element-e428720::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-10 .elementor-element.elementor-element-007f136 {
+    --display: flex;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-f9ba5d0 {
+    --spacer-size: 426px;
+}
+
+.elementor-10 .elementor-element.elementor-element-07575eb>.elementor-widget-container {
+    margin: -29px 0px 28px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-07575eb {
+    width: var( --container-widget-width, 49.196%);
+    max-width: 49.196%;
+    --container-widget-width: 49.196%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-07575eb.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-709a333 {
+    --spacer-size: 133px;
+}
+
+.elementor-10 .elementor-element.elementor-element-bbd648f {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-be7590b {
+    width: var( --container-widget-width, 25.625%);
+    max-width: 25.625%;
+    --container-widget-width: 25.625%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-be7590b.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-69e71ac {
+    --spacer-size: 50px;
+}
+
+.elementor-10 .elementor-element.elementor-element-69e71ac.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-631e78c {
+    width: var( --container-widget-width, 25.625%);
+    max-width: 25.625%;
+    --container-widget-width: 25.625%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-631e78c.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-4cf7d36 {
+    --spacer-size: 50px;
+}
+
+.elementor-10 .elementor-element.elementor-element-4cf7d36.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-44f30a9 {
+    width: var( --container-widget-width, 58.32%);
+    max-width: 58.32%;
+    --container-widget-width: 58.32%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-44f30a9.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-8cfd9d9 {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --background-transition: 0.3s;
+    overflow: visible;
+}
+
+.elementor-10 .elementor-element.elementor-element-631d292 {
+    width: var( --container-widget-width, 25.625%);
+    max-width: 25.625%;
+    --container-widget-width: 25.625%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-631d292.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-17397ff {
+    --spacer-size: 50px;
+}
+
+.elementor-10 .elementor-element.elementor-element-42a3ea6 {
+    width: var( --container-widget-width, 36.875%);
+    max-width: 36.875%;
+    --container-widget-width: 36.875%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-42a3ea6.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-7f4875a {
+    --spacer-size: 50px;
+}
+
+.elementor-10 .elementor-element.elementor-element-c110b08 {
+    width: var( --container-widget-width, 25.625%);
+    max-width: 25.625%;
+    --container-widget-width: 25.625%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-c110b08.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-74b1861 {
+    --spacer-size: 160px;
+}
+
+.elementor-10 .elementor-element.elementor-element-64f6d64>.elementor-widget-container {
+    margin: 26px 0px -12px 0px;
+}
+
+.elementor-10 .elementor-element.elementor-element-64f6d64 {
+    width: var( --container-widget-width, 97.166%);
+    max-width: 97.166%;
+    --container-widget-width: 97.166%;
+    --container-widget-flex-grow: 0;
+}
+
+.elementor-10 .elementor-element.elementor-element-64f6d64.elementor-element {
+    --flex-grow: 0;
+    --flex-shrink: 0;
+}
+
+body.elementor-page-10:not(.elementor-motion-effects-element-type-background),
+body.elementor-page-10>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://nibbler.club/wp-content/uploads/2023/05/now-bg.png");
+    background-position: top center;
+    background-size: cover;
+}
+
+@media(max-width:1024px) {
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-nav-identity-panel {
+        padding: 10px 0px 10px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-container {
+        max-width: 350px;
+        border-radius: 0px 0px 0px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a {
+        color: #000000;
+        padding: 10px 15px 10px 15px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav .elementskit-submenu-panel>li>a {
+        padding: 15px 15px 15px 15px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav .elementskit-submenu-panel {
+        border-radius: 0px 0px 0px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-hamburger {
+        padding: 8px 8px 8px 8px;
+        width: 45px;
+        border-radius: 3px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-close {
+        padding: 8px 8px 8px 8px;
+        margin: 12px 12px 12px 12px;
+        width: 45px;
+        border-radius: 3px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-nav-logo>img {
+        max-width: 160px;
+        max-height: 60px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-nav-logo {
+        margin: 5px 0px 5px 0px;
+        padding: 5px 5px 5px 5px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-10 .elementor-element.elementor-element-d177f39 {
+        --width: 1600px;
+        --min-height: 155px;
+        --justify-content: flex-start;
+    }
+    .elementor-10 .elementor-element.elementor-element-4c72122.e-con {
+        --align-self: center;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-menu-container {
+        background-color: #29CFF5EB;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a {
+        font-size: 23px;
+        color: var( --e-global-color-3f0d39e);
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:hover {
+        color: var( --e-global-color-a98739e);
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:focus {
+        color: var( --e-global-color-a98739e);
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:active {
+        color: var( --e-global-color-a98739e);
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li:hover>a {
+        color: var( --e-global-color-a98739e);
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li:hover>a .elementskit-submenu-indicator {
+        color: var( --e-global-color-a98739e);
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:hover .elementskit-submenu-indicator {
+        color: var( --e-global-color-a98739e);
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:focus .elementskit-submenu-indicator {
+        color: var( --e-global-color-a98739e);
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-navbar-nav>li>a:active .elementskit-submenu-indicator {
+        color: var( --e-global-color-a98739e);
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb .elementskit-nav-logo>img {
+        max-width: 120px;
+        max-height: 50px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3a7b4eb {
+        width: var( --container-widget-width, 44px);
+        max-width: 44px;
+        --container-widget-width: 44px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-266a5f9 {
+        --spacer-size: 283px;
+        width: var( --container-widget-width, 10px);
+        max-width: 10px;
+        --container-widget-width: 10px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-e3855cc>.elementor-widget-container {
+        margin: 0px -40px 0px 40px;
+    }
+    .elementor-10 .elementor-element.elementor-element-e3855cc {
+        width: var( --container-widget-width, 49.5px);
+        max-width: 49.5px;
+        --container-widget-width: 49.5px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-856f59e .elementor-widget-container {
+        text-align: right;
+    }
+    .elementor-10 .elementor-element.elementor-element-856f59e {
+        --icon-size: 18px;
+        width: var( --container-widget-width, 139px);
+        max-width: 139px;
+        --container-widget-width: 139px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-856f59e>.elementor-widget-container {
+        margin: 0px -25px 0px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-91764af {
+        width: var( --container-widget-width, 138.563px);
+        max-width: 138.563px;
+        --container-widget-width: 138.563px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-82148d3 {
+        --width: 341.2px;
+        --min-height: 108px;
+        --margin-top: 50px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-6497454 {
+        --spacer-size: 101px;
+    }
+    .elementor-10 .elementor-element.elementor-element-1cc8478>.elementor-widget-container {
+        margin: 0px -0px -0px -0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-1cc8478 {
+        width: var( --container-widget-width, 169.988px);
+        max-width: 169.988px;
+        --container-widget-width: 169.988px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-3c59ffe {
+        --margin-top: -100px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-ec8252f>.elementor-widget-container {
+        margin: 80px 0px 0px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-7567b3e {
+        --spacer-size: 210px;
+    }
+    .elementor-10 .elementor-element.elementor-element-b80f461 {
+        --spacer-size: 20px;
+    }
+    .elementor-10 .elementor-element.elementor-element-4a7a67a {
+        width: var( --container-widget-width, 199.587px);
+        max-width: 199.587px;
+        --container-widget-width: 199.587px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-e44eca8>.elementor-widget-container {
+        margin: 0px 0px -54px -8px;
+    }
+    .elementor-10 .elementor-element.elementor-element-0f9c418>.elementor-widget-container {
+        margin: -79px 0px 0px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-fa4d34b .elementor-heading-title {
+        font-size: 31px;
+    }
+    .elementor-10 .elementor-element.elementor-element-efd3222 {
+        --align-items: center;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    }
+    .elementor-10 .elementor-element.elementor-element-97dff2e {
+        --margin-top: -600px;
+        --margin-right: 0px;
+        --margin-bottom: 0px;
+        --margin-left: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-1511f8a {
+        --align-items: center;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+        --margin-top: 87px;
+        --margin-right: 0px;
+        --margin-bottom: -11px;
+        --margin-left: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-3b0617b {
+        width: var( --container-widget-width, 155.2px);
+        max-width: 155.2px;
+        --container-widget-width: 155.2px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-41eb92f {
+        text-align: right;
+        width: var( --container-widget-width, 125px);
+        max-width: 125px;
+        --container-widget-width: 125px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-987b710 {
+        --spacer-size: 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-9785b1b {
+        width: var( --container-widget-width, 194.038px);
+        max-width: 194.038px;
+        --container-widget-width: 194.038px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-bcab6db {
+        width: var( --container-widget-width, 196.113px);
+        max-width: 196.113px;
+        --container-widget-width: 196.113px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-ad3b06d>.elementor-widget-container {
+        margin: -114px -44px 0px 31px;
+    }
+    .elementor-10 .elementor-element.elementor-element-ad3b06d {
+        width: var( --container-widget-width, 195.387px);
+        max-width: 195.387px;
+        --container-widget-width: 195.387px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-de74661>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+    .elementor-10 .elementor-element.elementor-element-de74661 {
+        width: var( --container-widget-width, 216.387px);
+        max-width: 216.387px;
+        --container-widget-width: 216.387px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-ec96ba3 {
+        --spacer-size: 10px;
+    }
+    .elementor-10 .elementor-element.elementor-element-e428720 {
+        --min-height: 628px;
+        --align-items: center;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    }
+    .elementor-10 .elementor-element.elementor-element-e428720:not(.elementor-motion-effects-element-type-background),
+    .elementor-10 .elementor-element.elementor-element-e428720>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image: url("https://nibbler.club/wp-content/uploads/2023/06/button-bgsss.jpg");
+    }
+    .elementor-10 .elementor-element.elementor-element-007f136 {
+        --align-items: center;
+        --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    }
+    .elementor-10 .elementor-element.elementor-element-f9ba5d0 {
+        --spacer-size: 10px;
+    }
+    .elementor-10 .elementor-element.elementor-element-709a333 {
+        --spacer-size: 10px;
+    }
+    .elementor-10 .elementor-element.elementor-element-be7590b {
+        width: var( --container-widget-width, 102.488px);
+        max-width: 102.488px;
+        --container-widget-width: 102.488px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-69e71ac {
+        width: var( --container-widget-width, 18px);
+        max-width: 18px;
+        --container-widget-width: 18px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-631e78c {
+        width: var( --container-widget-width, 106.488px);
+        max-width: 106.488px;
+        --container-widget-width: 106.488px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-4cf7d36 {
+        width: var( --container-widget-width, 33px);
+        max-width: 33px;
+        --container-widget-width: 33px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-44f30a9 {
+        text-align: center;
+        width: var( --container-widget-width, 194.475px);
+        max-width: 194.475px;
+        --container-widget-width: 194.475px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-631d292 {
+        width: var( --container-widget-width, 108.488px);
+        max-width: 108.488px;
+        --container-widget-width: 108.488px;
+        --container-widget-flex-grow: 0;
+    }
+    .elementor-10 .elementor-element.elementor-element-c110b08 {
+        width: var( --container-widget-width, 123.488px);
+        max-width: 123.488px;
+        --container-widget-width: 123.488px;
+        --container-widget-flex-grow: 0;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-10 .elementor-element.elementor-element-d177f39 {
+        --width: 98.368%;
+    }
+    .elementor-10 .elementor-element.elementor-element-4c72122 {
+        --width: 100%;
+    }
+    .elementor-10 .elementor-element.elementor-element-b758905 {
+        --width: 100%;
+    }
+    .elementor-10 .elementor-element.elementor-element-f793d48 {
+        --width: 96%;
+    }
+    .elementor-10 .elementor-element.elementor-element-7bc1d68 {
+        --width: 77.847%;
+    }
+    .elementor-10 .elementor-element.elementor-element-82148d3 {
+        --width: 100%;
+    }
+    .elementor-10 .elementor-element.elementor-element-3c59ffe {
+        --width: 90.551%;
+    }
+    .elementor-10 .elementor-element.elementor-element-b77fb3e {
+        --width: 41.77%;
+    }
+    .elementor-10 .elementor-element.elementor-element-4215baa {
+        --width: 59.533%;
+    }
+    .elementor-10 .elementor-element.elementor-element-a3cdb8e {
+        --width: 100%;
+    }
+    .elementor-10 .elementor-element.elementor-element-a938e79 {
+        --width: 54.375%;
+    }
+    .elementor-10 .elementor-element.elementor-element-e215bf7 {
+        --width: 85.739%;
+    }
+    .elementor-10 .elementor-element.elementor-element-ca33c4f {
+        --width: 100.638%;
+    }
+    .elementor-10 .elementor-element.elementor-element-30e4efc {
+        --width: 83.512%;
+    }
+    .elementor-10 .elementor-element.elementor-element-2f2420c {
+        --width: 83.512%;
+    }
+    .elementor-10 .elementor-element.elementor-element-ab485ef {
+        --width: 83.512%;
+    }
+    .elementor-10 .elementor-element.elementor-element-b772841 {
+        --width: 83.512%;
+    }
+    .elementor-10 .elementor-element.elementor-element-297ac33 {
+        --width: 95.947%;
+    }
+    .elementor-10 .elementor-element.elementor-element-d01c28e {
+        --width: 99.811%;
+    }
+    .elementor-10 .elementor-element.elementor-element-3972b2a {
+        --width: 99.811%;
+    }
+    .elementor-10 .elementor-element.elementor-element-fc3920f {
+        --width: 99.811%;
+    }
+}
+
+/* Start Custom Fonts CSS */
+
+@font-face {
+    font-family: 'STEINWARD';
+    font-style: normal;
+    font-weight: normal;
+    font-display: auto;
+    src: url('https://nibbler.club/wp-content/uploads/2023/05/SteinwaldDEMO-Regular.ttf') format('truetype');
+}
+
+/* End Custom Fonts CSS */
